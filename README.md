@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nokesh</h1>
 <h3 align="center">MCA Student | Aspiring Software Engineer | Passionate about New Technologies</h3>
 
-- 👨‍💻 All of my projects are available at [https://1drv.ms/u/c/4c0ee0f663d1f25e/EVT9rLBR_4pFvKD6oFZiMhUB6gRlTIHD9FP9vwWh_FyfYQ?e=xiUrjp](https://1drv.ms/u/c/4c0ee0f663d1f25e/EVT9rLBR_4pFvKD6oFZiMhUB6gRlTIHD9FP9vwWh_FyfYQ?e=xiUrjp)
+- 👨‍💻 All of my portfolio [https://1drv.ms/u/c/4c0ee0f663d1f25e/EVT9rLBR_4pFvKD6oFZiMhUB6gRlTIHD9FP9vwWh_FyfYQ?e=xiUrjp](https://1drv.ms/u/c/4c0ee0f663d1f25e/EVT9rLBR_4pFvKD6oFZiMhUB6gRlTIHD9FP9vwWh_FyfYQ?e=xiUrjp)
 
 - 📫 How to reach me **bellamkondanokesh8@gmail.com**
 
